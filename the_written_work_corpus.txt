@@ -1,3 +1,8 @@
+# The Written Work Corpus
+# A Swedish NER data set for written works
+# Created in August 2018
+# Data from dn.se/kultur
+# By Hillevi Hägglöf
 Sara	O
 Danius	O
 om	O
